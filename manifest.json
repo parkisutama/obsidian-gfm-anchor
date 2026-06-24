@@ -1,0 +1,11 @@
+{
+  "id": "gfm-anchor",
+  "name": "GFM Anchor Compatibility",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Makes GFM-style anchor links work natively in Obsidian, enabling full compatibility with GitHub, Typora, MkDocs, and other GFM-compatible renderers.",
+  "author": "Parkis Utama",
+  "authorUrl": "https://github.com/parkisutama",
+  "fundingUrl": "",
+  "isDesktopOnly": true
+}
